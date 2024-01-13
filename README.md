@@ -1,5 +1,5 @@
-# GCS-Former: A framework based on Gesture Contrastive Semantic Space for Gesture Recognition
-This repo contains the code of our latest paper: GCS-Former: A framework based on Gesture Contrastive Semantic Space for Gesture Recognition
+# GCS-Former: A framework based on Gesture Contrastive Space for Gesture Recognition
+This repo contains the code of our latest paper: GCS-Former: A framework based on Gesture Contrastive Space for Gesture Recognition
 
 
 
