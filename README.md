@@ -182,6 +182,10 @@ python experiment5_LSTM_sequence_last.py
 python experiment5_Transformer_average_representation.py
 
 python experiment5_Transformer_sequence_representation.py
+
+python experiment6_transferlearning_100percent.py
+
+python experiment6_transferlearning_75percent.py
 ```
 
 
