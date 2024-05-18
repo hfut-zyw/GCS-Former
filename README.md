@@ -117,7 +117,7 @@ Your directory tree should look like this:
 | AtzoriNet           | Ninapro DB1 | 50,27                  | -                     | 66.59                 |
 | GengNet             | Ninapro DB1 | 52,27                  | -                     | 77.8                  |
 | Krishnapriya et al. | Ninapro DB1 | 52,27                  | -                     | 78.95                 |
-| Ours                | Ninapro DB1 | 52,27                  | **81.74**             | **82.77**             |
+| Ours                | Ninapro DB1 | 52,27                  | **81.74**             | **82.87**             |
 | AtzoriNet           | Ninapro DB2 | 50,40                  | 60.27                 | -                     |
 | **GCS-Former**      | Ninapro DB2 | 49,40                  | **69.80**             | **71.86**             |
 
