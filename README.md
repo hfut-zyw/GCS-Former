@@ -107,7 +107,7 @@ Your directory tree should look like this:
 
 ## Quick Start
 
-#### Main results
+#### Main results（More results will be updated after some time.）
 
 - Results on Ninapro DB1&DB2
 
